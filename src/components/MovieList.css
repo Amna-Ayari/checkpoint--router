@@ -1,0 +1,14 @@
+.List-movies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .List-container {
+    background-color: #490404;
+    height: auto;
+  }
+  .add-Movie {
+    text-align: center;
+  }
+  
